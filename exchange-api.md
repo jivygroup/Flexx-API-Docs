@@ -12,7 +12,7 @@
   - [orderBookDepth](#orderBookDepth)
 
 # Introduction
-The OM2 exchange API offers real time market data as well as the ability to trade with the exchange.
+The exBerry exchange API offers real time market data as well as the ability to trade with the exchange.
 
 The underlying technology used is [Scalecube](http://scalecube.io/) a Novel Open-source application-platform that addresses inherent challenges involved in the development of distributed computing.
 
@@ -25,7 +25,7 @@ Within the valid JSON please be aware that:
 
 
 **Sandbox**
-* Navigate to [Sandbox](https://sandbox.exchange.om2.com/)
+* Navigate to [Sandbox](https://sandbox.exBerry.io/)
 * Create a session and start investigate the API 
 
 <details><summary><a name="GeneralSpecs"></a><b>General Specifications</b></summary>
