@@ -1,4 +1,4 @@
-<img src="https://fex-17304.ingress-alpha.easywp.com/wp-content/uploads/2019/12/Asset-1.png" width="80">
+<img src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_709/https://exberry.io/wp-content/uploads/2020/01/exberry-09.png" width="80">
 
 
 - [Introduction](#Introduction)
@@ -12,7 +12,7 @@
   - [orderBookDepth](#orderBookDepth)
 
 # Introduction
-The exBerry exchange API offers real time market data as well as the ability to trade with the exchange.
+The exberry exchange API offers real time market data as well as the ability to trade with the exchange.
 
 The underlying technology used is [Scalecube](http://scalecube.io/) a Novel Open-source application-platform that addresses inherent challenges involved in the development of distributed computing.
 
